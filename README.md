@@ -63,9 +63,10 @@ npm start
 -------
 ```
 Technologies Used
-
--Node.js
--Express.js
--MySQL
--Together.AI for AI integration
--dotenv for environment variable management
+---
+- Node.js
+- Express.js
+- MySQL
+- Together.AI for AI integration
+- dotenv for environment variable management
+---
